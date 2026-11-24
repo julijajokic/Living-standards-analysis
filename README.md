@@ -1,8 +1,8 @@
 
 ## Project Documentation
 
-[View Project Documentation (PDF)](Projec.pdf)
+[View Project Documentation (PDF)](Projektni rad.pdf)
 
 ## Project Presentation
 
-[View Project Presentation (PDF)](Project-Presentation.pdf)
+[View Project Presentation (PDF)](Prezentacija.pdf)
