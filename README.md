@@ -1,7 +1,7 @@
 
 ## Project Documentation
 
-[View Project Documentation (PDF)](Projektni rad.pdf)
+[View Project Documentation (PDF)](Projektnirad.pdf)
 
 ## Project Presentation
 
